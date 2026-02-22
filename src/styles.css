@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Base styles for a rich dark background and text */
+body {
+  @apply bg-[#0A0A0A] text-neutral-200 font-sans;
+}
